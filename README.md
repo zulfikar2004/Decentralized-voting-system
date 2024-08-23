@@ -9,7 +9,7 @@
 The Decentralized Voting System aims to revolutionize how elections are conducted by leveraging blockchain technology. Our goal is to provide a secure, transparent, and tamper-proof voting process for various elections, ensuring that every vote counts and can be publicly verified on the blockchain. This system can be used in environments ranging from student council elections to corporate governance and even national elections.
 
 #### **Contract Address**
-**Network:** Edu-chain  
+**Network:** Edu-chain TestNet
 **Contract Address:** 0xf8a17b88b2bcb594053940077b48f984918a83fa
 <img width="721" alt="Screenshot 2024-08-23 125312" src="https://github.com/user-attachments/assets/0403e473-df00-43c3-864a-6ddf96f0c1b6">
 
